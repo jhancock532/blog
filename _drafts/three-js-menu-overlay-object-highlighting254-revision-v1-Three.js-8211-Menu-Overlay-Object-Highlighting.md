@@ -1,0 +1,16 @@
+---
+id: 257
+title: 'Three.js &#8211; Menu Overlay, Object Highlighting'
+date: 2020-11-24T15:28:02+00:00
+author: James
+layout: revision
+guid: http://www.jameshancock.art/254-revision-v1/
+permalink: /254-revision-v1/
+---
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="569" src="http://www.jameshancock.art/wp-content/uploads/2020/11/homemenuoverlay-1024x569.jpg" alt="" class="wp-image-255" srcset="http://www.jameshancock.art/wp-content/uploads/2020/11/homemenuoverlay-1024x569.jpg 1024w, http://www.jameshancock.art/wp-content/uploads/2020/11/homemenuoverlay-300x167.jpg 300w, http://www.jameshancock.art/wp-content/uploads/2020/11/homemenuoverlay-768x427.jpg 768w, http://www.jameshancock.art/wp-content/uploads/2020/11/homemenuoverlay-1536x854.jpg 1536w, http://www.jameshancock.art/wp-content/uploads/2020/11/homemenuoverlay.jpg 1928w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /><figcaption>A simple home menu overlay.</figcaption></figure> 
+
+I&#8217;m reconsidering the placement of the &#8220;Visit the Gallery&#8221; button, as it obscures the bottom of the scrolling section on the left. Otherwise I&#8217;m happy with the font choice, EBGaramond. This is my first time using a variable font for a project, I&#8217;d like to experiment more with variable font properties&#8230;<figure class="wp-block-image size-large">
+
+<img loading="lazy" width="1024" height="701" src="http://www.jameshancock.art/wp-content/uploads/2020/11/take-a-closer-look-1024x701.jpg" alt="" class="wp-image-256" srcset="http://www.jameshancock.art/wp-content/uploads/2020/11/take-a-closer-look-1024x701.jpg 1024w, http://www.jameshancock.art/wp-content/uploads/2020/11/take-a-closer-look-300x205.jpg 300w, http://www.jameshancock.art/wp-content/uploads/2020/11/take-a-closer-look-768x526.jpg 768w, http://www.jameshancock.art/wp-content/uploads/2020/11/take-a-closer-look.jpg 1279w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /> <figcaption>A quick draft of looking closely at things.</figcaption></figure> 
+
+I&#8217;m using Three.JS BoxHelper to outline this object, along with a simple magnifying glass <img> overlayed on the screen. The red outline isn&#8217;t that visible, so I might start investigating [post-processing render tasks](https://threejs.org/examples/?q=outline#webgl_postprocessing_outline) (which involves a fair few more JavaScript files) to get a better outline glow effect. Ideally I don&#8217;t want to have to use a magnifying glass in the final result.

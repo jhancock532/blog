@@ -1,0 +1,24 @@
+---
+id: 184
+title: Too Much!
+date: 2020-10-23T10:13:15+00:00
+author: James
+layout: revision
+guid: http://www.jameshancock.art/181-revision-v1/
+permalink: /181-revision-v1/
+---
+There are too many cool art projects on <https://thewrong.org/>. There are too many great examples of website design referenced by <https://publishsomething.online/>. There are too many <a href="https://github.com/sindresorhus/awesome" data-type="URL" data-id="https://github.com/sindresorhus/awesome">awesome resources</a> and repositories of opportunity. At least, there are too many opportunities and ideas and provocations and memes and news and stresses and academic articles for me to respond to. 
+
+I get overwhelmed quite easily; on the internet, to get overwhelmed all you have to do is point and click, then point and click, and click, click, click&#8230; As a self-protective measure, I&#8217;ve learned that I have to focus on what I enjoy doing as a priority. If I try to work to the markscheme I have an infinity of options to narrow down and decide upon. My intention is to take my existing skills and follow a vague idea of where I want to go, based on what I enjoy doing already.
+
+<!--more-->
+
+Introducing labyr.in/th/ &#8211; an interactive website built around the fundamentals of the web and computing. Coded in P5.js, using dat.gui for parameter tweaking (AKA art direction), I want to explore the digital labyrinth through creating it for myself. I would like to prominently feature black and white colours, representing binary data, and make extensive use of the cursor for interactive elements. To emphasise the role of the internet within the piece, each scene of interactivity will be split across unique webpages. I will research how Olia Lialina used the URL to create context for her online artwork (Micheal Conner discusses this in _Post Internet: What It Is and What It Was_), and use this understanding to better add meaning towards the site.
+
+I will develop the site online in a scene by scene basis, blending the creative practice principles of &#8220;everydays&#8221; and agile development. The website will be released live early on and new webpages added regularly. As I develop the code that helps the website run, I will write reflective notes, thoughts, insights as comments beside the code. As a proof of concept for how this might work, see the CodePen embed below. I intend for this to be the first or second page the user finds when they interact with the site; it is intended to captivate the user&#8217;s interest and narrow their focus to engage with the website, mirroring how quickly we lose ourselves in the unreality of the online world.
+
+<p class="codepen" data-height="516" data-theme-id="dark" data-default-tab="js,result" data-user="jhancock532" data-slug-hash="vYKybJx" style="height: 516px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Schwoop! P5.js Doodle">
+  <span>See the Pen <a href="https://codepen.io/jhancock532/pen/vYKybJx"> Schwoop! P5.js Doodle</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>) on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+
+I am particularly inspired by Frans Masereel&#8217;s Passionate Journey woodcuts, his exploration of full engagement with life is incredible. I acknowledge the seemingly infinite nature of the internet, and how it can engage us deeply with only two of our senses; I look to understand the nature of our hearts, and the boundless capabilities of human experience. The binary nature of technology and the analogue nature of reality. There&#8217;s only duality here if we believe it.
