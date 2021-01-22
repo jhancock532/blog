@@ -6,7 +6,7 @@ author: James
 layout: post
 guid: https://jhancock532.github.io/blog/?p=298
 permalink: /labyr-in-th-finishing-touches/
-categories:
+tags:
   - Reflective Writing
   - Web Projects
 ---

@@ -6,7 +6,7 @@ author: James
 layout: post
 guid: https://jhancock532.github.io/blog/?p=306
 permalink: /feedback-tweaks-reading/
-categories:
+tags:
   - Reading
   - Reflective Writing
   - Web Projects
@@ -35,4 +35,13 @@ This suggests that if you&#8217;re distracted or playing a part, your ability to
 
 Luther Blissett maintains that net art is &#8220;Everyone with his own site, everyone with his own domain, everyone with his own gallery, they are throwing themselves into the trammels of traditional art.&#8221;
 
-This is a lovely quote, I shall make sure to make my website gallery slightly tongue in cheek with a YouTube play button in the corner somewhere, and a live figure of the number of subscribers I have (12).
+This is a lovely quote, I shall make sure to make my website gallery slightly tongue in cheek with a YouTube play button in the corner somewhere, and a live figure of the number of subscribers I have.
+
+After having a tutor try and go through the site on a Mac and trackpad, I realised the importance of device specific interaction indicators. On Mac devices the close window button is on the left hand side, and the back button isn't in the same place in the browser UI. There's a further problem in that the scroll bar isn't visible when you're scrolling sideways, which means `going.html` doesn't function at all. I've redrawn interaction indicators and skipped the `going.html` page entirely for mac devices. I will however restrict visitors of the site (who are marking) to follow a list of instructions very carefully before starting and during the experience. Using a trackpad can result in visitors unintentionally going back or forward a webpage, breaking the order of the site - hence, the trackpad is banned, and a mouse is to be used instead.
+
+Because I find the idea of someone visiting the site on their Amazon Fire TV stick interesting / I want my labyrinth to be performed across as many devices as possible, I've added in automatic time out skips if the visitor isn't able to complete the webpage task. Having this inevitablity of direction is very important to the idea of a labyrinth also.
+
+Considering the accessibility of the site, I am very aware that there is none. No tags, descriptions, explainers, keyboard focus elements, etc. I wish I had more time to add a little story into each webpage for TTS visitors.
+
+I've ported over my blog from WordPress to jekyll with GitHub Pages. This is much better, I prefer static with HTTPS over security risks with lag any day.
+

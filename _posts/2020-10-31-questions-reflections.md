@@ -6,7 +6,7 @@ author: James
 layout: post
 guid: https://jhancock532.github.io/blog/?p=186
 permalink: /questions-reflections/
-categories:
+tags:
   - Reflective Writing
 ---
 What is my research question for Labyrinth?

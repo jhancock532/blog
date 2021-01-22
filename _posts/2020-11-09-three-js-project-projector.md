@@ -6,7 +6,7 @@ author: James
 layout: post
 guid: https://jhancock532.github.io/blog/?p=225
 permalink: /three-js-project-projector/
-categories:
+tags:
   - ThreeJS
   - Web Projects
 ---

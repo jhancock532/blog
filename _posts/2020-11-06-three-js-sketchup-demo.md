@@ -6,7 +6,7 @@ author: James
 layout: post
 guid: https://jhancock532.github.io/blog/?p=210
 permalink: /three-js-sketchup-demo/
-categories:
+tags:
   - ThreeJS
   - Web Projects
 ---

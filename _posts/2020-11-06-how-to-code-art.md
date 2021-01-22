@@ -6,7 +6,7 @@ author: James
 layout: post
 guid: https://jhancock532.github.io/blog/?p=197
 permalink: /how-to-code-art/
-categories:
+tags:
   - Reflective Writing
 ---
 Each keystroke of code is the art itself. What we witness via various browser windows is a performance of the artwork (following Boris Groys&#8217;s reasoning from In the Flow). The practice of artistic creation is melded closely with the artistic artifact.

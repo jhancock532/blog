@@ -6,7 +6,7 @@ author: James
 layout: post
 guid: https://jhancock532.github.io/blog/?p=63
 permalink: /web-2-0-disruptions/
-categories:
+tags:
   - Reading
 ---
 <blockquote class="wp-block-quote">

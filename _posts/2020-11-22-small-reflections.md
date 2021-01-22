@@ -6,7 +6,7 @@ author: James
 layout: post
 guid: https://jhancock532.github.io/blog/?p=250
 permalink: /small-reflections/
-categories:
+tags:
   - Reflective Writing
   - Web Projects
 ---

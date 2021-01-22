@@ -6,7 +6,7 @@ author: James
 layout: post
 guid: https://jhancock532.github.io/blog/?p=284
 permalink: /winter-presentations/
-categories:
+tags:
   - Reflective Writing
   - Web Projects
 ---

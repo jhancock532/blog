@@ -6,7 +6,7 @@ author: James
 layout: post
 guid: https://jhancock532.github.io/blog/?p=218
 permalink: /three-js-virtual-architecture-incorperated/
-categories:
+tags:
   - ThreeJS
   - Web Projects
 ---

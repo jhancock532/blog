@@ -6,7 +6,7 @@ author: James
 layout: post
 guid: https://jhancock532.github.io/blog/?p=200
 permalink: /diving-into-three-js/
-categories:
+tags:
   - ThreeJS
   - Web Projects
 ---

@@ -6,7 +6,7 @@ author: James
 layout: post
 guid: https://jhancock532.github.io/blog/?p=239
 permalink: /labyr-in-th-design-choices/
-categories:
+tags:
   - Reflective Writing
   - Web Projects
 ---

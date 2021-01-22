@@ -6,7 +6,7 @@ author: James
 layout: post
 guid: https://jhancock532.github.io/blog/?p=273
 permalink: /three-js-new-room-lighting-experiments/
-categories:
+tags:
   - ThreeJS
   - Web Projects
 ---

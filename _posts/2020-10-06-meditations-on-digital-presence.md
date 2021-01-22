@@ -5,7 +5,7 @@ date: 2020-10-06T13:33:07+00:00
 author: James
 layout: post
 permalink: /meditations-on-digital-presence/
-categories:
+tags:
   - Web Projects
 ---
 I&#8217;ve just begun my Digital Media Arts MA course; this is the first blog post.

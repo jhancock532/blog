@@ -6,7 +6,7 @@ author: James
 layout: post
 guid: https://jhancock532.github.io/blog/?p=235
 permalink: /three-js-movement-collisions-framing/
-categories:
+tags:
   - ThreeJS
   - Web Projects
 ---

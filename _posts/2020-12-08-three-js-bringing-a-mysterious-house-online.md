@@ -6,7 +6,7 @@ author: James
 layout: post
 guid: https://jhancock532.github.io/blog/?p=265
 permalink: /three-js-bringing-a-mysterious-house-online/
-categories:
+tags:
   - ThreeJS
   - Web Projects
 ---

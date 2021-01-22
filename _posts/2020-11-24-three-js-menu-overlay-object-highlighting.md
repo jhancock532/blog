@@ -6,7 +6,7 @@ author: James
 layout: post
 guid: https://jhancock532.github.io/blog/?p=254
 permalink: /three-js-menu-overlay-object-highlighting/
-categories:
+tags:
   - ThreeJS
   - Web Projects
 ---

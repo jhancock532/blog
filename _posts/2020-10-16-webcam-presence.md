@@ -6,7 +6,7 @@ author: James
 layout: post
 guid: https://jhancock532.github.io/blog/?p=143
 permalink: /webcam-presence/
-categories:
+tags:
   - Web Projects
 ---
 You&#8217;re being watched &#8211; by yourself.

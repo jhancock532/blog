@@ -6,7 +6,7 @@ author: James
 layout: post
 guid: https://jhancock532.github.io/blog/?p=291
 permalink: /congratulations-you-have-scrolled-far-enough/
-categories:
+tags:
   - Reflective Writing
 ---
 _A response to the following meme_;<figure class="wp-block-image">
