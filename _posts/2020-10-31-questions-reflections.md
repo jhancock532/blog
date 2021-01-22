@@ -13,11 +13,8 @@ What is my research question for Labyrinth?
 
 What would a labyrinth website look like? Can we create a web experience in which the user becomes disorientated going from webpage to webpage?
 
-<!--more-->
 
-
-
-Generally a webpage has many anchors to the rest of the internet in the form of links. What if we give the user no access to links? What if we can only progress through the labyrinth step by step, and any attempts to access later pages early on are denied? Can we get the user to backtrack, revisit patterns and motifs?<figure class="wp-block-image size-large">
+Generally a webpage has many anchors to the rest of the internet in the form of links. What if we give the user no access to links? What if we can only progress through the labyrinth step by step, and any attempts to access later pages early on are denied? Can we get the user to backtrack, revisit patterns and motifs?
 
 ![](https://art.tfl.gov.uk/labyrinth/wp-content/uploads/2013/04/Green-Park-small-1024x681.jpg)Labyrinth (Green Park) by Mark Wallinger
 
