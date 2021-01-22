@@ -21,14 +21,18 @@ From the previous blog post&#8230; &#8220;Could we create art through deliberate
 
 <!--more-->
 
-<pre class="wp-block-code"><code>//Rotates all webpage elements randomly.
+<code>//Rotates all webpage elements randomly.
 let elements = document.getElementsByTagName("*");
 for (let i = 0; i &lt; elements.length; i++) {
   let randomNumber = (Math.random()*60 - 30).toString();
   elements&#91;i].style.transform = "rotate(" + randomNumber + "deg)";
-}</code></pre><figure class="wp-block-image size-large">
+}</code>
 
-<img loading="lazy" width="1024" height="576" src="https://jhancock532.github.io/blog/wp-content/uploads/2020/10/incredible-1024x576.png" alt="" class="wp-image-138" srcset="https://jhancock532.github.io/blog/wp-content/uploads/2020/10/incredible-1024x576.png 1024w, https://jhancock532.github.io/blog/wp-content/uploads/2020/10/incredible-300x169.png 300w, https://jhancock532.github.io/blog/wp-content/uploads/2020/10/incredible-768x432.png 768w, https://jhancock532.github.io/blog/wp-content/uploads/2020/10/incredible-1536x864.png 1536w, https://jhancock532.github.io/blog/wp-content/uploads/2020/10/incredible.png 1920w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /> <figcaption>Twitter, Tilted</figcaption><figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="https://jhancock532.github.io/blog/wp-content/uploads/2020/10/huh-1024x576.png" alt="" class="wp-image-135" srcset="https://jhancock532.github.io/blog/wp-content/uploads/2020/10/huh-1024x576.png 1024w, https://jhancock532.github.io/blog/wp-content/uploads/2020/10/huh-300x169.png 300w, https://jhancock532.github.io/blog/wp-content/uploads/2020/10/huh-768x432.png 768w, https://jhancock532.github.io/blog/wp-content/uploads/2020/10/huh-1536x864.png 1536w, https://jhancock532.github.io/blog/wp-content/uploads/2020/10/huh.png 1920w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /><figcaption>Twitter, Colourised</figcaption>
+<img loading="lazy" src="https://jhancock532.github.io/blog/wp-content/uploads/2020/10/incredible-1024x576.png" alt="" class="wp-image-138" srcset="https://jhancock532.github.io/blog/wp-content/uploads/2020/10/incredible-1024x576.png 1024w, https://jhancock532.github.io/blog/wp-content/uploads/2020/10/incredible-300x169.png 300w, https://jhancock532.github.io/blog/wp-content/uploads/2020/10/incredible-768x432.png 768w, https://jhancock532.github.io/blog/wp-content/uploads/2020/10/incredible-1536x864.png 1536w, https://jhancock532.github.io/blog/wp-content/uploads/2020/10/incredible.png 1920w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />
+Twitter, Tilted
+
+<img loading="lazy" width="1024" height="576" src="https://jhancock532.github.io/blog/wp-content/uploads/2020/10/huh-1024x576.png" alt="" class="wp-image-135" srcset="https://jhancock532.github.io/blog/wp-content/uploads/2020/10/huh-1024x576.png 1024w, https://jhancock532.github.io/blog/wp-content/uploads/2020/10/huh-300x169.png 300w, https://jhancock532.github.io/blog/wp-content/uploads/2020/10/huh-768x432.png 768w, https://jhancock532.github.io/blog/wp-content/uploads/2020/10/huh-1536x864.png 1536w, https://jhancock532.github.io/blog/wp-content/uploads/2020/10/huh.png 1920w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />
+Twitter, Colourised
 
 I&#8217;m having a go at creating a web browser extension to apply these effects automatically on visiting a website. As we make a mess of the Twitter brand, our attention is brought to the invisible gallery that the Web 2.0 exists within. The forms of content distribution, once we become familiar to their patterns of scrolling and clicking, are lost as the background of the endless stream of content and information passing through. This doesn&#8217;t have to be the case however; here&#8217;s a more theoretical collection of CodePen demos where form is more important than content.
 
