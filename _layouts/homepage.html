@@ -44,9 +44,13 @@
         
         
       {% for post in site.posts %}
+        <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-            <h2>{{ post.title }}</h2><br>
+            {{ post.title }}
           </a>
+        </h2>
+        <p>{{ post.date | date_to_string }}</p>
+        <br>
       {% endfor %}
 
       </section>
