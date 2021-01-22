@@ -19,7 +19,7 @@ What would a labyrinth website look like? Can we create a web experience in whic
 
 Generally a webpage has many anchors to the rest of the internet in the form of links. What if we give the user no access to links? What if we can only progress through the labyrinth step by step, and any attempts to access later pages early on are denied? Can we get the user to backtrack, revisit patterns and motifs?<figure class="wp-block-image size-large">
 
-![](https://art.tfl.gov.uk/labyrinth/wp-content/uploads/2013/04/Green-Park-small-1024x681.jpg) <figcaption>Labyrinth (Green Park) by Mark Wallinger</figcaption></figure> 
+![](https://art.tfl.gov.uk/labyrinth/wp-content/uploads/2013/04/Green-Park-small-1024x681.jpg)Labyrinth (Green Park) by Mark Wallinger
 
 <blockquote class="wp-block-quote">
   <p>
@@ -69,7 +69,7 @@ The online space requires basic interaction &#8211; the mouse and keyboard. This
 
 > Distraction and concentration form polar opposites which may be stated as follows: A man who concentrates before a work of art is absorbed by it&#8230; In contrast, the distracted mass absorbs the work of art.
 > 
-> <cite>The Work of Art in the Age of Mechanical Reproduction</cite></figure> 
+> <cite>The Work of Art in the Age of Mechanical Reproduction</cite>
 
 This is the nature of online engagement. The distracted mass, described in the context of people milling around architecture, now mills around the architecture of the internet &#8211; social networking sites. Like ants in a colony, engaged consumers witness the flow of information, being rewarded with spectacle and distraction, occasionally redirecting, morphing or adding fresh input towards the collective vision of the internet. This becomes the collective vision of a subset of humanity (when considered through the lens of Reddit&#8217;s r/all feed) or a subset of a collective vision (when considered through the filters and priorities of Twitter, Facebook and TikTok&#8217;s personalised algorithms). We speak the same language; our context of speaking references the weight of what we all have seen, what we have reacted to, what the whimsy of the crowd has carried forward into the minds of millions. Some users are closer to the online connection. They check feeds daily. They follow popular sources of content creation, surfing major trends and regularly investigating new rabbit holes of enterntainment. New context; new references. 
 

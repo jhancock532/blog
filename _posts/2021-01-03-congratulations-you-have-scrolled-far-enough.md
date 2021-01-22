@@ -11,7 +11,7 @@ categories:
 ---
 _A response to the following meme_;<figure class="wp-block-image">
 
-![https://i.redd.it/11h9qsgaqw861.jpg](https://i.redd.it/11h9qsgaqw861.jpg) </figure> <!--more-->
+![https://i.redd.it/11h9qsgaqw861.jpg](https://i.redd.it/11h9qsgaqw861.jpg) <!--more-->
 
 I read a book on social media recently, &#8220;Filling the Void: Emotion, Capitalism and Social Media&#8221;. The author writes about how our consumption of online content is like a never-ending search to find an answer, or piece of information, that clarifies all the other online noise and confusion that we&#8217;ve been scrolling through.
 

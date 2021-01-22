@@ -22,7 +22,7 @@ We run away from ourselves in a thousand different ways. We lose our souls a tho
 
 &#8220;Attached to reality&#8221; implies a duality. For one moment, please focus on this spiraling pattern. Follow the start of the labyrinth to the center with your finger.<figure class="wp-block-image">
 
-![https://www.starwheels.com/images/image/L48.jpg](https://www.starwheels.com/images/image/L48.jpg) </figure> 
+![https://www.starwheels.com/images/image/L48.jpg](https://www.starwheels.com/images/image/L48.jpg) 
 
 ## Dreaming
 

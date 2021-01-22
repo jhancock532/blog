@@ -20,7 +20,7 @@ Getting regular feedback on how the experience is performing (whether people und
 
 I&#8217;m meant to be writing 500 words to outline the scope of my interactive project, but that&#8217;s been sidetracked whilst I&#8217;ve been developing &#8211; here&#8217;s the project headline for you now&#8230;<figure class="wp-block-pullquote">
 
-> To create a playful website that engages the visitor’s attention with simple web interactions (clicking, scrolling, key presses). The design of the website follows themes found in traditional labyrinths; one entrance and one exit, repeating patterns, simple black and white graphics.</figure> 
+> To create a playful website that engages the visitor’s attention with simple web interactions (clicking, scrolling, key presses). The design of the website follows themes found in traditional labyrinths; one entrance and one exit, repeating patterns, simple black and white graphics.
 
 I also intend to work with a set of creative limitations
 
