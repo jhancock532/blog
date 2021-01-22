@@ -1,4 +1,8 @@
-  {% for post in site.posts %}
+---
+layout: homepage
+---
+
+{% for post in site.posts %}
     <li class="post-item">
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
         <div class="post-info">
