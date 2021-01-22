@@ -4,7 +4,7 @@ title: Questions, Reflections
 date: 2020-10-31T13:17:32+00:00
 author: James
 layout: post
-guid: http://www.jameshancock.art/?p=186
+guid: https://jhancock532.github.io/blog/?p=186
 permalink: /questions-reflections/
 categories:
   - Reflective Writing

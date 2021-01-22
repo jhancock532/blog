@@ -4,7 +4,7 @@ title: How To Code Art
 date: 2020-11-06T12:30:09+00:00
 author: James
 layout: post
-guid: http://www.jameshancock.art/?p=197
+guid: https://jhancock532.github.io/blog/?p=197
 permalink: /how-to-code-art/
 categories:
   - Reflective Writing

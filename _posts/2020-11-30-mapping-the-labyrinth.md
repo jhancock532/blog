@@ -4,7 +4,7 @@ title: Mapping the Labyrinth
 date: 2020-11-30T11:42:36+00:00
 author: James
 layout: post
-guid: http://www.jameshancock.art/?p=260
+guid: https://jhancock532.github.io/blog/?p=260
 permalink: /mapping-the-labyrinth/
 categories:
   - Reflective Writing

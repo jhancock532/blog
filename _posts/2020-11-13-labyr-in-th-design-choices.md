@@ -4,7 +4,7 @@ title: 'Labyr.in/th &#8211; Design Choices'
 date: 2020-11-13T16:06:27+00:00
 author: James
 layout: post
-guid: http://www.jameshancock.art/?p=239
+guid: https://jhancock532.github.io/blog/?p=239
 permalink: /labyr-in-th-design-choices/
 categories:
   - Reflective Writing

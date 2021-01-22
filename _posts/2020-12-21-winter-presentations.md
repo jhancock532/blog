@@ -4,7 +4,7 @@ title: Winter Presentations
 date: 2020-12-21T16:13:16+00:00
 author: James
 layout: post
-guid: http://www.jameshancock.art/?p=284
+guid: https://jhancock532.github.io/blog/?p=284
 permalink: /winter-presentations/
 categories:
   - Reflective Writing
@@ -34,6 +34,6 @@ In contrast, my labyrinth has only one path, often unintuitive. The path is clea
 
 Looking towards next term, I will continue to experiment with different ways of engaging with social media sites and web 2.0. It&#8217;s possible adapt existing systems and create our own interactions with them, don&#8217;t forget.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="578" src="http://www.jameshancock.art/wp-content/uploads/2020/12/google-performance-of-labyrinth-1-1024x578.jpg" alt="" class="wp-image-288" srcset="http://www.jameshancock.art/wp-content/uploads/2020/12/google-performance-of-labyrinth-1-1024x578.jpg 1024w, http://www.jameshancock.art/wp-content/uploads/2020/12/google-performance-of-labyrinth-1-300x169.jpg 300w, http://www.jameshancock.art/wp-content/uploads/2020/12/google-performance-of-labyrinth-1-768x434.jpg 768w, http://www.jameshancock.art/wp-content/uploads/2020/12/google-performance-of-labyrinth-1-1536x868.jpg 1536w, http://www.jameshancock.art/wp-content/uploads/2020/12/google-performance-of-labyrinth-1.jpg 1912w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /> </figure> 
+<img loading="lazy" width="1024" height="578" src="https://jhancock532.github.io/blog/wp-content/uploads/2020/12/google-performance-of-labyrinth-1-1024x578.jpg" alt="" class="wp-image-288" srcset="https://jhancock532.github.io/blog/wp-content/uploads/2020/12/google-performance-of-labyrinth-1-1024x578.jpg 1024w, https://jhancock532.github.io/blog/wp-content/uploads/2020/12/google-performance-of-labyrinth-1-300x169.jpg 300w, https://jhancock532.github.io/blog/wp-content/uploads/2020/12/google-performance-of-labyrinth-1-768x434.jpg 768w, https://jhancock532.github.io/blog/wp-content/uploads/2020/12/google-performance-of-labyrinth-1-1536x868.jpg 1536w, https://jhancock532.github.io/blog/wp-content/uploads/2020/12/google-performance-of-labyrinth-1.jpg 1912w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /> </figure> 
 
 A note regarding labyr.in/th/ &#8211; Google&#8217;s performance of the site in search results is terrible. This will have to be fixed!

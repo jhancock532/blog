@@ -4,7 +4,7 @@ title: Small Reflections
 date: 2020-11-22T11:57:33+00:00
 author: James
 layout: post
-guid: http://www.jameshancock.art/?p=250
+guid: https://jhancock532.github.io/blog/?p=250
 permalink: /small-reflections/
 categories:
   - Reflective Writing

@@ -4,7 +4,7 @@ title: Feedback, Tweaks, Reading
 date: 2021-01-21T14:42:39+00:00
 author: James
 layout: post
-guid: http://www.jameshancock.art/?p=306
+guid: https://jhancock532.github.io/blog/?p=306
 permalink: /feedback-tweaks-reading/
 categories:
   - Reading

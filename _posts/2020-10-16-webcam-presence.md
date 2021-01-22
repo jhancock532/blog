@@ -4,7 +4,7 @@ title: Webcam Presence
 date: 2020-10-16T09:36:17+00:00
 author: James
 layout: post
-guid: http://www.jameshancock.art/?p=143
+guid: https://jhancock532.github.io/blog/?p=143
 permalink: /webcam-presence/
 categories:
   - Web Projects
@@ -21,7 +21,7 @@ I&#8217;d like to experiment with using a webcam, to place myself directly in or
 
 To take these video elements and insert them into Twitter requires a FireFox extension. This is where things get complicated; for some reason, Twitter automatically applies some JavaScript to all new video objects added to the webpage, resetting their stream. Whenever a stream object is added, the JavaScript removes it again. My solution to this problem was to continually add the webcam stream to the video element &#8211; causing a flickering video to appear. To resolve the flicker issue, I decided to paint the video stream to a canvas element; as a result of which, I realised I could control the opacity of the canvas to make my face overlay the screen entirely.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="572" src="http://www.jameshancock.art/wp-content/uploads/2020/10/fadingpresence-1024x572.jpg" alt="" class="wp-image-146" srcset="http://www.jameshancock.art/wp-content/uploads/2020/10/fadingpresence-1024x572.jpg 1024w, http://www.jameshancock.art/wp-content/uploads/2020/10/fadingpresence-300x168.jpg 300w, http://www.jameshancock.art/wp-content/uploads/2020/10/fadingpresence-768x429.jpg 768w, http://www.jameshancock.art/wp-content/uploads/2020/10/fadingpresence-1536x858.jpg 1536w, http://www.jameshancock.art/wp-content/uploads/2020/10/fadingpresence.jpg 1920w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /> <figcaption>The Magic Mirror</figcaption></figure> 
+<img loading="lazy" width="1024" height="572" src="https://jhancock532.github.io/blog/wp-content/uploads/2020/10/fadingpresence-1024x572.jpg" alt="" class="wp-image-146" srcset="https://jhancock532.github.io/blog/wp-content/uploads/2020/10/fadingpresence-1024x572.jpg 1024w, https://jhancock532.github.io/blog/wp-content/uploads/2020/10/fadingpresence-300x168.jpg 300w, https://jhancock532.github.io/blog/wp-content/uploads/2020/10/fadingpresence-768x429.jpg 768w, https://jhancock532.github.io/blog/wp-content/uploads/2020/10/fadingpresence-1536x858.jpg 1536w, https://jhancock532.github.io/blog/wp-content/uploads/2020/10/fadingpresence.jpg 1920w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /> <figcaption>The Magic Mirror</figcaption></figure> 
 
 I chose to have the webcam opacity fade in and out over time, hoping to bring my presence / attention back to myself frequently. This occured initially with the novelty of the effect, but it wore off quickly as I began straining my eyes to see through myself whilst reading tweets. I adopted a &#8220;look away every 20 seconds approach&#8221; so as to save my eyesight from its inevitable demise, which made for a much slower engagement with the Twitter feed than normal.
 
