@@ -1,6 +1,6 @@
 ---
 title: Labyrinthine Comments
-date: 2021-01-21T14:42:39+00:00
+date: 2021-02-01T14:42:39+00:00
 author: James
 layout: post
 permalink: /labyrinthine-comments/
@@ -12,18 +12,18 @@ tags:
 Coming to the end of the first two development projects, my energy is dipping. New pressures for dissertation research are rising, the time spent in lockdown is becoming increasingly glassy, viscous, heavily saturated with screens. I have been taking time off to meditate  / nap most days, as well as doing journalling around what I wanted to say with labyr.in/th/. As a result I have added further comments to the labyr.in/th/ source code, all rather poetic, idiosyncratic, playful.
 
 ```
-  Trawling through CyberSpace, I linked in to a Space Bar
-  All the Surf Clubs had closed :(
-  I found a melancholy lofi playlist abandoned in a corner,
-  left in an ashtray of "you might also like" dust,
-  any flame in the links long since extinguished.
-  
-  Once it was fun, an old review said.
-  But then nobody had any body to be with
-  Everything was individual.
-  Nobody minded - they were already elsewhere,
-  No thoughts,
-  Head empty.
+Trawling through CyberSpace, I linked in to a Space Bar
+All the Surf Clubs had closed :(
+I found a melancholy lofi playlist abandoned in a corner,
+left in an ashtray of "you might also like" dust,
+any flame in the links long since extinguished.
+
+Once it was fun, an old review said.
+But then nobody had any body to be with
+Everything was individual.
+Nobody minded - they were already elsewhere,
+No thoughts,
+Head empty.
 ```
 > ㅡkeyboard.html
 
@@ -34,26 +34,26 @@ I originally created labyr.in/th/ as a mindfulness experiment, it later pivoted 
 I wrote the following conclusion at the root directory of labyr.in/, only accessible via reading the GitHub source code or downloading the webpage through the command line. This conclusion contradicts older source code comments to return my project to its original focus of mindfulness. I now see labyr.in/th/ as a personal labyrinth; I have walked from the entrance of presence to a center of conceptual thought, I now walk back to the entrance of presence again.
 
 ```
-  The goal of this website is not to reach the center.html,
-  nor to return from the center.html to the entrance.html.
+The goal of this website is not to reach the center.html,
+nor to return from the center.html to the entrance.html.
 
-  Your task is to be aware of the journey.
-  I offer you no experience other than direct experience itself,
+Your task is to be aware of the journey.
+I offer you no experience other than direct experience itself,
 
-  An experience of our special, quirky internet unreality,
-  felt through the plastic of our keyboards, mice, touchscreens,
-  seen so directly to us, with such predictable cause and effect!
+An experience of our special, quirky internet unreality,
+felt through the plastic of our keyboards, mice, touchscreens,
+seen so directly to us, with such predictable cause and effect!
 
-  The performance of the internet is cheap,
-  but only as we are cheap spectators - clicking for quick fixes
-  see how weak your patience and frustrations are online
+The performance of the internet is cheap,
+but only as we are cheap spectators - clicking for quick fixes
+see how weak your patience and frustrations are online
 
-  Do not demand ever brighter beauty,
-  accept the discomforts of the present,
-  perceive the beauty already there.
+Do not demand ever brighter beauty,
+accept the discomforts of the present,
+perceive the beauty already there.
 
-  Take an opportunity to set aside your filters and expectations
-  stay with me, for a moment, in this space of passings
+Take an opportunity to set aside your filters and expectations
+stay with me, for a moment, in this space of passings
 ```
 
 
