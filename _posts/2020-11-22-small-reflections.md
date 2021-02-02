@@ -1,6 +1,6 @@
 ---
 id: 250
-title: Small Reflections
+title: Labyr.in/th/ - Small Reflections
 date: 2020-11-22T11:57:33+00:00
 author: James
 layout: post

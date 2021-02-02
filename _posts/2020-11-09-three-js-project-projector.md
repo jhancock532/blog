@@ -1,6 +1,6 @@
 ---
 id: 225
-title: 'Three.js &#8211; Project Projector'
+title: 'Web Tech - Project Projector'
 date: 2020-11-09T16:39:57+00:00
 author: James
 layout: post

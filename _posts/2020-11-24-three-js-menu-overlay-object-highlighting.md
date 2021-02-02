@@ -1,6 +1,6 @@
 ---
 id: 254
-title: 'Three.js &#8211; Menu Overlay, Object Highlighting'
+title: 'Web Tech - Menu Overlay, Object Highlighting'
 date: 2020-11-24T15:28:02+00:00
 author: James
 layout: post

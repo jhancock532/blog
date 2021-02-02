@@ -1,6 +1,6 @@
 ---
 id: 273
-title: 'Three.js &#8211; New Room, Lighting Experiments'
+title: 'Web Tech - New Room, Lighting Experiments'
 date: 2020-12-10T12:12:09+00:00
 author: James
 layout: post

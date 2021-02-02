@@ -1,6 +1,6 @@
 ---
 id: 260
-title: Mapping the Labyrinth
+title: Labyr.in/th/ - Mapping in Wonderland
 date: 2020-11-30T11:42:36+00:00
 author: James
 layout: post

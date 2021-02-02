@@ -18,9 +18,9 @@ Accordingly, I am mindfully adding social media icons at the bottom of my site, 
 
 YouTube requires a brand request submission for any use of the YouTube icon. I submitted mine below, with the following mockup attached.
 
-![The brand request](/wp-content/uploads/brand-compliance/brand%20request.png)
+![The brand request](/blog/wp-content/uploads/brand-compliance/brand%20request.png)
 
-![The mockup](/wp-content/uploads/2021/brand-compliance/youtube%20brand%20usage%20mockup.png)
+![The mockup](/blog/wp-content/uploads/2021/brand-compliance/youtube%20brand%20usage%20mockup.png)
 
 After several days, they approved my request. I then responded to the email, enquiring as to why the [YouTube Brand Resources page](https://www.youtube.com/about/brand-resources/#logos-icons-colors) didn't follow the Facebook brand guidelines.
 
