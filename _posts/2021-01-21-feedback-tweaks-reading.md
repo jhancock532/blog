@@ -1,6 +1,7 @@
 ---
 id: 306
-title: Labyr.in/th/ - Feedback, Tweaks, Reading
+title: Feedback, Tweaks, Reading
+project: Labyr.in/th/
 date: 2021-01-21T14:42:39+00:00
 author: James
 layout: post
