@@ -20,7 +20,8 @@ On reflection, the button starts to be a bit too distracting; I now only show th
 
 For the rest of the portfolio site, I want to keep things uncluttered and simple. This saves development time and builds my brand image. I like the idea of reducing online noise if possible (as well as offering the alternative online experience that is a 3D gallery).
 
+========
+
 Another idea that resonated with me this week was that 
 > "(Internet art) is art because it incorperates the internet with an original idea and authentic message, it changes the perpsective from which we see usual things such as a browser page or social networks... this is what artists alway do: they experiment with reality and question whats taken for granted."
 From the [Armchair Art Historian's YouTube Channel](https://www.youtube.com/watch?v=6HYLLYkcapw)
-
