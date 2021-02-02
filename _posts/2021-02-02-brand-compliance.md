@@ -33,10 +33,4 @@ YouTube uses an outdated Facebook icon throughout their site, something that Fac
 
 Sadly, YouTube has not yet responded to my request for comment.
 
-I appreciate Instagram's brand guidelines the best out of all social media; they allow you to recolor the logo when it's used as one of a series of social media icons.
-
-
-
-
-
-
+I appreciate Instagram's brand guidelines the most out of all social media; they allow you to recolor the logo when it's used as one of a series of social media icons.
