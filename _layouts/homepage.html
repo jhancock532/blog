@@ -39,7 +39,9 @@
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
             {{ post.title }}
           </a>
-          <span class="post-project">- {{ post.project }}</span>
+          {% if post.project %}
+            <span class="post-project">- {{ post.project }}</span>
+          {% endif %}
         </h2>
         <p>{{ post.date | date_to_string }}</p>
         <br>
