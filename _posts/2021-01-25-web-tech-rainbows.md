@@ -1,5 +1,6 @@
 ---
-title: Web Tech - Rainbow Buttons
+title: Rainbow Buttons
+project: Web Tech
 date: 2021-01-25T14:42:39+00:00
 author: James
 layout: post
