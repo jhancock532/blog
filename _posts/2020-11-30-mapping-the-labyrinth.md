@@ -1,6 +1,6 @@
 ---
-id: 260
-title: Labyr.in/th/ - Mapping in Wonderland
+title: Mapping in Wonderland
+project: Labyr.in/th/
 date: 2020-11-30T11:42:36+00:00
 author: James
 layout: post

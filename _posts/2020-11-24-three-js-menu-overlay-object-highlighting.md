@@ -1,6 +1,6 @@
 ---
-id: 254
-title: 'Web Tech - Menu Overlay, Object Highlighting'
+title: 'Menu Overlay, Object Highlighting'
+project: Web Tech
 date: 2020-11-24T15:28:02+00:00
 author: James
 layout: post

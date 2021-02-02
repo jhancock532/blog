@@ -1,6 +1,6 @@
 ---
-id: 235
-title: 'Web Tech - Movement, Collisions, Framing'
+project: Web Tech
+title: Movement, Collisions, Framing
 date: 2020-11-16T16:00:22+00:00
 author: James
 layout: post

@@ -1,6 +1,6 @@
 ---
-id: 298
-title: 'Labyr.in/th/ - Finishing Touches'
+title: Finishing Touches'
+project: Labyr.in/th/
 date: 2021-01-08T12:30:41+00:00
 author: James
 layout: post

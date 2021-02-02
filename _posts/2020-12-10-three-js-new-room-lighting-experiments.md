@@ -1,6 +1,6 @@
 ---
-id: 273
-title: 'Web Tech - New Room, Lighting Experiments'
+project: Web Tech
+title: 'New Room, Lighting Experiments'
 date: 2020-12-10T12:12:09+00:00
 author: James
 layout: post

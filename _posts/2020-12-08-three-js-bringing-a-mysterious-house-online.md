@@ -1,6 +1,6 @@
 ---
-id: 265
-title: 'Web Tech - Bringing A Mysterious House Online'
+title: 'Bringing A Mysterious House Online'
+project: Web Tech
 date: 2020-12-08T18:03:14+00:00
 author: James
 layout: post

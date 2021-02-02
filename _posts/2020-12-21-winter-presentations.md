@@ -1,6 +1,6 @@
 ---
-id: 284
-title: Labyr.in/th/ - Winter Presentations
+title: Winter Presentations
+project: Labyr.in/th/
 date: 2020-12-21T16:13:16+00:00
 author: James
 layout: post
