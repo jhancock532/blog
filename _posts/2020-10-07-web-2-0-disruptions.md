@@ -1,6 +1,6 @@
 ---
 id: 63
-title: Web 2.0 Disruptions
+title: Web Tech - Web 2.0 Disruptions
 date: 2020-10-07T13:29:57+00:00
 author: James
 layout: post

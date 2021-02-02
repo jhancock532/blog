@@ -1,5 +1,5 @@
 ---
-title: Web Tech Rainbows
+title: Web Tech - Rainbow Buttons
 date: 2021-01-25T14:42:39+00:00
 author: James
 layout: post
@@ -22,6 +22,6 @@ For the rest of the portfolio site, I want to keep things uncluttered and simple
 
 ========
 
-Another idea that resonated with me this week was that 
+An idea that resonated with me this week...
 > "(Internet art) is art because it incorperates the internet with an original idea and authentic message, it changes the perpsective from which we see usual things such as a browser page or social networks... this is what artists alway do: they experiment with reality and question whats taken for granted."
 From the [Armchair Art Historian's YouTube Channel](https://www.youtube.com/watch?v=6HYLLYkcapw)
