@@ -11,13 +11,13 @@ tags:
   - Web Projects
 ---
 
-I have been minimising the content on my portfolio site to avoid adding to the cognitive load of the site visitors.
+I have been minimising my portfolio site content to avoid adding to the cognitive load of site visitors.
 
-I am using a similar approach to writing this blog post. The noise of the web 2.0 is a large influence in my work.
+I am using a similar approach to write this blog post. I have decided to oppose noise of the web 2.0 in all aspects of my practice, hence the new blog design.
 
-Accordingly, I am mindfully adding social media icons at the bottom of my site, in full compliance with their brand guidelines.
+I am adding social media icons at the bottom of my portfolio website in full compliance of their respective brand guidelines.
 
-YouTube requires a brand request submission for any use of the YouTube icon. I submitted mine below, with the following mockup attached.
+YouTube requires a brand request submission for any use of the YouTube icon. I submitted mine as follows.
 
 ![The brand request](/blog/wp-content/uploads/brand-compliance/brand%20request.png)
 
@@ -25,7 +25,7 @@ YouTube requires a brand request submission for any use of the YouTube icon. I s
 
 After several days, they approved my request. I then responded to the email, enquiring as to why the [YouTube Brand Resources page](https://www.youtube.com/about/brand-resources/#logos-icons-colors) didn't follow the Facebook brand guidelines.
 
-See the outdated Facebook logo below, also note how the Twitter icon doesn't follow Twitter's brand colours.
+YouTube uses an outdated Facebook icon throughout their site, something that Facebook strictly prohibits.
 
 ![The outdated Facebook logo](/blog/wp-content/uploads/brand-compliance/youtube-facebook.jpg)
 
@@ -33,7 +33,7 @@ See the outdated Facebook logo below, also note how the Twitter icon doesn't fol
 
 Sadly, YouTube has not yet responded to my request for comment.
 
-I appreciate Instagram's brand guidelines surrounding the use of their logo the best; they allow you to recolor the logo when it's used as part of a series of social media icons.
+I appreciate Instagram's brand guidelines the best out of all social media; they allow you to recolor the logo when it's used as one of a series of social media icons.
 
 
 
