@@ -1,6 +1,6 @@
 ---
-id: 186
-title: Labyr.in/th/ - Questions, Reflections
+project: Labyr.in/th/
+title: Questions, Reflections
 date: 2020-10-31T13:17:32+00:00
 author: James
 layout: post

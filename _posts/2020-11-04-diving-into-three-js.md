@@ -1,6 +1,6 @@
 ---
-id: 200
-title: 'Web Tech - Just Getting Started'
+project: Web Tech
+title: 'Just Getting Started'
 date: 2020-11-04T19:20:04+00:00
 author: James
 layout: post

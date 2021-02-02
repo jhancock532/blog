@@ -1,6 +1,6 @@
 ---
-id: 239
-title: 'Labyr.in/th - Design Choices'
+project: Labyr.in/th
+title: 'Design Choices'
 date: 2020-11-13T16:06:27+00:00
 author: James
 layout: post

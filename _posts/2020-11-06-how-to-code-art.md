@@ -1,6 +1,6 @@
 ---
-id: 197
-title: Labyr.in/th/ - How To Code Art
+project: Labyr.in/th/
+title: How To Code Art
 date: 2020-11-06T12:30:09+00:00
 author: James
 layout: post

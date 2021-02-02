@@ -1,6 +1,6 @@
 ---
-id: 218
-title: 'Web Tech - Virtual Architecture Incorperated'
+project: Web Tech
+title: 'Virtual Architecture Incorperated'
 date: 2020-11-08T15:25:58+00:00
 author: James
 layout: post
