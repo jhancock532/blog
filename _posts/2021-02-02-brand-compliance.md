@@ -1,5 +1,6 @@
 ---
-title: Web Tech - Brand Compliance
+title: Brand Compliance
+project: Web Tech
 date: 2021-02-02T14:42:39+00:00
 author: James
 layout: post
@@ -20,15 +21,15 @@ YouTube requires a brand request submission for any use of the YouTube icon. I s
 
 ![The brand request](/blog/wp-content/uploads/brand-compliance/brand%20request.png)
 
-![The mockup](/blog/wp-content/uploads/2021/brand-compliance/youtube%20brand%20usage%20mockup.png)
+![The mockup](/blog/wp-content/uploads/brand-compliance/youtube%20brand%20usage%20mockup.png)
 
 After several days, they approved my request. I then responded to the email, enquiring as to why the [YouTube Brand Resources page](https://www.youtube.com/about/brand-resources/#logos-icons-colors) didn't follow the Facebook brand guidelines.
 
 See the outdated Facebook logo below, also note how the Twitter icon doesn't follow Twitter's brand colours.
 
-![The outdated Facebook logo](/wp-content/uploads/2021/brand-compliance/youtube-facebook.jpg)
+![The outdated Facebook logo](/blog/wp-content/uploads/brand-compliance/youtube-facebook.jpg)
 
-![Facebook's brand guidelines](/wp-content/uploads/2021/brand-compliance/facebook%20guidelines.png)
+![Facebook's brand guidelines](/blog/wp-content/uploads/brand-compliance/facebook%20guidelines.png)
 
 Sadly, YouTube has not yet responded to my request for comment.
 
