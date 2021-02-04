@@ -1,5 +1,5 @@
 ---
-title: Meta Data, 3D Text
+title: Metadata, 3D Text
 project: Web Tech
 date: 2021-02-02T14:42:39+00:00
 author: James
