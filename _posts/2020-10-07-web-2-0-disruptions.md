@@ -1,5 +1,4 @@
 ---
-project: Web Tech
 title: Web 2.0 Disruptions
 date: 2020-10-07T13:29:57+00:00
 author: James
@@ -16,6 +15,7 @@ tags:
   
   <cite>Tech Critic on <a href="https://www.thesocialdilemma.com/">The Social Dilemma</a>, a Netflix documentary about how Netflix is ruining our lives.</cite>
 </blockquote>
+
 
 From the previous blog post&#8230; &#8220;Could we create art through deliberately setting context in exaggerated forms, so that the content is percieved in a new light?&#8221; A simple way of doing this is to modify the web browser DOM with some extra CSS styling. You can copy and paste the following code into your browser JavaScript debugger to create a range of striking effects.
 
