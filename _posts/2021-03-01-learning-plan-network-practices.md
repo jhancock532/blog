@@ -1,10 +1,10 @@
 ---
-title: Virtual Culture and Network Practices
+title: Learning Plan
 project: Network Practices
 date: 2021-02-02T14:42:39+00:00
 author: James
 layout: post
-permalink: /virtual-culture-and-network-practices/
+permalink: /learning-plan-network-practices/
 tags:
   - Reflective Writing
   - Web Projects
@@ -55,9 +55,9 @@ I have explored the Codeless REST API scripting tools provided by Backendless; I
 
 Having researched fingerprinting, I find that there are many solutions online, but only one major open-source option: fingerprint.js. This site offers 60% idenitification accuracy for its free tier, so I am tempted to copy the fingerprinting code from other research sites to get a higher accuracy.
 
-[A good website to steal fingerprinting code from perhaps?](https://amiunique.org/fp) - After looking at the code, there was too much noise. I have decided to use a less effective method, it will probably be good enough to distinguish users.
+**Am I Unique?** - [A good website to steal fingerprinting code from perhaps?](https://amiunique.org/fp) - After looking at the code, there was too much noise. I have decided to use a less effective method, it will probably be good enough to distinguish users.
 
-[Another open source fingerprinting repository, browser fingerprint](https://github.com/actionhero/browser_fingerprint) - Sadly, this tool doesn't provide canvas fingerprinting. This is a shame because font data contains a lot of unique information.
+**Browser Fingerprint** - [Another open source fingerprinting repository](https://github.com/actionhero/browser_fingerprint) - Sadly, this tool doesn't provide canvas fingerprinting. This is a shame because font data contains a lot of unique information.
 
 Although I am sad to use a library that is not truely open source, I will use fingerprint.js for this project.
 
