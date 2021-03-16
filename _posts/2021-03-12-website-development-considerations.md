@@ -22,3 +22,5 @@ Having messed around with this a bit, I've realised that concurrency isn't a big
 The models are loading into the site with their material styling dependant on the fingerprint hash of the browser. There were a few tricks with cloning materials / cloning animation skeletons required to make it work, but now I have any number of models that can be loaded in each with an independant animation mixer, all managed by Participant.js.
 
 ![Models waiting patiently to be animated across the internet.](/blog/assets/images/patience.jpg)
+
+"The slower materials can make more realistic looking scenes but you might need to design your code to use the faster materials on low powered or mobile machines."
