@@ -1,10 +1,10 @@
 ---
-title: Struggles and Successes
+title: Development Fun
 project: Network Practices
 date: 2021-02-02T14:42:39+00:00
 author: James
 layout: post
-permalink: /struggles-and-successes/
+permalink: /development-fun/
 tags:
   - Reflective Writing
   - Web Projects
@@ -86,3 +86,8 @@ Oh dear, while I've been developing, my host has gone down. RIP backendless
 ![A screenshot of a dead server](/blog/assets/images/notgood.jpg)
 
 I take this as a sign that I should work on another project now.
+
+
+https://en.wikipedia.org/wiki/Bricolage
+
+In her book Life on the Screen (1995), Sherry Turkle discusses the concept of bricolage as it applies to problem solving in code projects and workspace productivity. She advocates the "bricoleur style" of programming as a valid and underexamined alternative to what she describes as the conventional structured "planner" approach. In this style of coding, the programmer works without an exhaustive preliminary specification, opting instead for a step-by-step growth and re-evaluation process. In her essay "Epistemological Pluralism", Turkle writes: "The bricoleur resembles the painter who stands back between brushstrokes, looks at the canvas, and only after this contemplation, decides what to do next."[20]
